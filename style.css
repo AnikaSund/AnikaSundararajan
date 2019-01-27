@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 19% 5px 19%;
+  font-size: 18px;
+  margin: 0;
+  color: rgb(255, 107, 181);
+}
+
+h1 {
+  font-family:"Brush Script MT", cursive; 
+  font-size: 64px;
+  text-align: center; 
+  color: #35cdab; 
+}
+
+nav{
+  background-color:#fef808;
+  font-size:12;
+  font-family:fantasy;
+  text-align-last:justify; 
+  color:rgb(255, 107, 181); 
+  
+}
+
+#firstPar{
+  float:right;
+  outline-style:double; 
+  outline-width:15px; 
+  outline-color:#35cdab; 
+  text-align: center;
+}
+
+#firstPic{
+  outline-style:inset; 
+  outline-width:15px; 
+  outline-color:rgb(255, 107, 181); 
+}
+
+
+
