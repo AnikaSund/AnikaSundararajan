@@ -26,3 +26,31 @@ h1 {
 #Tabs button{
   background-color:#fef808;
   font-size:12;
+  font-family:fantasy;
+  text-align-last:justify; 
+  color:rgb(169, 169, 169); 
+  animation: fadeEffect 4s; 
+  
+}
+
+#firstPar{
+  float:right;
+  outline-style:double; 
+  outline-width:15px; 
+  outline-color:#35cdab; 
+  text-align: center;
+}
+
+#firstPic{
+  outline-style:inset; 
+  outline-width:15px; 
+  outline-color:rgb(255, 107, 181); 
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+
+
